@@ -17,3 +17,4 @@ A CONCEPSÃO é uma das primeiras etapas da metodologia do Design Thinking no fi
 
 O conjunto formado pelo CTO, Leader de Desing e Geresntes de Produto são chamados de ondas que é o corpo de liderança.
 
+11:29
