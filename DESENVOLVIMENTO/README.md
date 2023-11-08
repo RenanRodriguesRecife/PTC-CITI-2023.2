@@ -16,7 +16,7 @@ CSS - Overflow (O que passa dos limites da página, se ele vai mostrar ou se vai
 
 CSS - Uma forma de centralizar
 
-````css
+```css
 .box{
   position: fixed;
   top: 50%;
