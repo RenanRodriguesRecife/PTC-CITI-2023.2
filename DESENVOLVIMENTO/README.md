@@ -9,3 +9,19 @@ Staks usadas: REACT E REACT NATIVE
 
 Base: HTML e CSS
 
+
+Alguns detalhes
+
+CSS - Overflow (O que passa dos limites da página, se ele vai mostrar ou se vai esconder, vai fazer um scroll...)
+
+CSS - Uma forma de centralizar
+
+````css
+.box{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+```
+16:27
