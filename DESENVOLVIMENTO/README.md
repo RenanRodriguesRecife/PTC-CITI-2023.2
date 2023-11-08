@@ -24,4 +24,10 @@ CSS - Uma forma de centralizar
   transform: translate(-50%, -50%);
 }
 ```
-16:27
+Algumas IDEs (2023) - CodeSandbox, Replit
+
+
+<img src=".assets/exemplo.JPG">
+
+24:05
+
